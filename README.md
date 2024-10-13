@@ -11,4 +11,4 @@ Transformed: Hotel Echo Lima Lima Oscar Tango Hotel Echo Romeo Echo
 
 ## Installation
 
-Check [releases](/releases) for the latest version. There are binaries for a a few common systems to choose from.
+Check [releases](https://github.com/Darth-Knoppix/natospell/releases) for the latest version. There are binaries for a a few common systems to choose from.
