@@ -15,8 +15,7 @@ import (
 var rootCmd = &cobra.Command{
 	Use:   "natospell [string to transform]",
 	Short: "Transform a string into clear-code words using Radiotelephony Spelling Alphabet",
-	Long: `Transform a string using Radiotelephony Spelling Alphabet (NATO phonetic alphabet)
-	so it can be read easily over telephone systems.`,
+	Long:  `Transform a string using Radiotelephony Spelling Alphabet (NATO phonetic alphabet) so it can be read easily over telephone systems.`,
 
 	Args: cobra.MinimumNArgs(1),
 	Run: func(cmd *cobra.Command, args []string) {
